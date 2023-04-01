@@ -1,0 +1,100 @@
+{
+  "project_info": {
+    "project_number": "193516900828",
+    "project_id": "photogallery-13f18",
+    "storage_bucket": "photogallery-13f18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193516900828:android:85d845fc9ad1924d043f19",
+        "android_client_info": {
+          "package_name": "com.example.image_to_text"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193516900828-52uu8mb6n5476sutalc6u31cck97t3ik.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.image_to_text",
+            "certificate_hash": "e408f10965daed64f0070fed68c37991e99c6921"
+          }
+        },
+        {
+          "client_id": "193516900828-ub97d49em1p0v07284bvv4o95k13lioq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.image_to_text",
+            "certificate_hash": "0cfbc4c7dbad2160d0792d8c2265128c97b72848"
+          }
+        },
+        {
+          "client_id": "193516900828-75e0uehv3b314sna5ecthenuk92oss75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8J0TohLXcVEE0_NiqKy7xKxB-eckyJBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193516900828-75e0uehv3b314sna5ecthenuk92oss75.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193516900828:android:99066f1cf27c2620043f19",
+        "android_client_info": {
+          "package_name": "org.super_gallery_app.super_gallery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193516900828-5aur9cmcduqqt54cro49kvkub97gjcb2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.super_gallery_app.super_gallery",
+            "certificate_hash": "e408f10965daed64f0070fed68c37991e99c6921"
+          }
+        },
+        {
+          "client_id": "193516900828-r8hja705qmhhl34eoepkk1pbco51dhjp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.super_gallery_app.super_gallery",
+            "certificate_hash": "4645e5fa8d0ba259db02252043ec06a16e805f1d"
+          }
+        },
+        {
+          "client_id": "193516900828-75e0uehv3b314sna5ecthenuk92oss75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8J0TohLXcVEE0_NiqKy7xKxB-eckyJBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193516900828-75e0uehv3b314sna5ecthenuk92oss75.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
